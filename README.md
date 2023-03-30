@@ -61,6 +61,16 @@
    <ol style="list-style-type: lower-alpha">
    <li>Encuentre la probabilidad de que tres candidatos capacitados en internado sean contratados para estas posiciones. (<b>Rta:</b> 0.1786) </li>
    <li>¿Cuál es la probabilidad de que ninguno de los tres contratados sea capacitado en internado? (<b>Rta:</b>0.01786)</li>
-   <li>Encuentre P(X >= 1)$ (<b>Rta:</b>0.2857)</li>
+   <li>Encuentre P(X >= 1) (<b>Rta:</b>0.2857)</li>
    </ol>
+
+2. Es frecuente que las semillas sean tratadas con fungicidas para protegerlas en ambientes húmedos y con desecación defectuosa. Un intento a pequeña escala, que comprende cinco semillas tratadas y cinco no tratadas, fue realizado antes de un experimento a gran escala para explorar cuánto fungicida aplicar. Las semillas se plantaron en un suelo húmedo y se contó el número de plantas que brotaron. Si la solución no era efectiva y cuatro plantas brotaron en realidad, cuál es la probabilidad de que:
+   <ol style="list-style-type: lower-alpha">
+   <li>Las cuatro plantas brotaran de semillas tratadas. (<b>Rta:</b> 0.0238) </li>
+   <li>Tres o menos brotaran de semillas tratadas. (<b>Rta:</b>0.9762)</li>
+   <li>Al menos una brotara de semillas no tratadas (<b>Rta:</b>0.9762)</li>
+   </ol>
+
+
+
 
