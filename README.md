@@ -71,6 +71,11 @@
    <li>Al menos una brotara de semillas no tratadas (<b>Rta:</b>0.9762)</li>
    </ol>
 
-
+3. Un producto industrial se envía en lotes de 20. Es costoso realizar pruebas para determinar si un artículo es defectuoso y, por tanto, el fabricante muestrea su producción en lugar de usar un plan de inspección al 100%. Un plan de muestreo, construido para minimizar el número de piezas defectuosas enviadas a los clientes, exige muestrear cinco artículos de cada lote y rechazar el lote si se observa más de una pieza defectuosa. (Si el lote es rechazado, cada artículo del mismo se prueba posteriormente.) Si un lote contiene cuatro piezas defectuosas: 
+   <ol style="list-style-type: lower-alpha">
+   <li>¿cuál es la probabilidad de que sea rechazado?  (<b>Rta:</b> 0.2487) </li>
+   <li>¿Cuál es el número esperado de piezas defectuosas en la muestra de tamaño 5? (<b>Rta:</b>1)</li>
+   <li>¿Cuál es la varianza del número de piezas defectuosas de la muestra de tamaño 5? (<b>Rta:</b>0.632)</li>
+   </ol>
 
 
