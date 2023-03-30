@@ -1,6 +1,6 @@
 # Actividad VA Discreta
 
-## Distribución de probabilidad binomial
+## Distribución de probabilidad Binomial
 
 1. Se construye un complejo sistema electrónico con cierto número de piezas de respaldo en sus subsistemas. Un subsistema tiene cuatro componentes idénticos, cada uno con una probabilidad de 0.2 de fallar en menos de 1000 horas. El subsistema funciona si dos de los cuatro componentes están operando. Suponga que los componentes operan de manera independiente. Encuentre la probabilidad de que
    <ol style="list-style-type: lower-alpha">
@@ -33,5 +33,34 @@
    <li>¿Qué tema deberá seleccionar el estudiante para incrementar al máximo la probabilidad de escribir un buen ensayo? (<b>Rta:</b> 0.0081) </li>
    <li>¿Qué pasa si la probabilidad de que lleguen los libros es de sólo 0.5 en lugar de 0.9? (<b>Tema A</b>: 0.99; <b>Tema B</b>: 0.9963)</li>
    <li>Ninguna tendrá que olvidarse.(<b>Tema A</b>: 0.75; <b>Tema B</b>: 0.6875)</li>
+   </ol>
+
+## Distribución de probabilidad Geometrica
+
+1. Suponga que la probabilidad de mal funcionamiento de un motor durante cualquier periodo de una hora es p = 0.02. Encuentre la probabilidad de que un motor determinado funcione bien dos horas. (**Rta**: 0.9604)
+   
+2. Un contador público certificado (CPA, por sus siglas en inglés) ha encontrado que nueve de cada diez compañías auditadas contienen errores importantes. Si el CPA hace auditoría a una serie de cuentas de empresas
+   <ol style="list-style-type: lower-alpha">
+   <li>¿Cuál es la probabilidad de que la primera cuenta que contenga errores importantes sea la tercera en ser auditada?. (<b>Rta:</b> 0.009) </li>
+   <li>¿Cuál es la probabilidad de que la primera cuenta que contenga errores importantes cualquier cuenta después de la segunda? (<b>Rta:</b>0.01)</li>
+   </ol>
+
+3. La probabilidad de que llegue un cliente al mostrador de servicio de una tienda en un segundo cualquiera es igual a 0.1. Suponga que llegan clientes en forma aleatoria y por tanto que una llegada en un segundo cualquiera es independiente de las otras. Encuentre la probabilidad de que la primera llegada:
+   <ol style="list-style-type: lower-alpha">
+   <li>Ocurra durante el tercer intervalo de un segundo. (<b>Rta:</b> 0.081) </li>
+   <li>No ocurra hasta al menos el tercer intervalo de un segundo. (<b>Rta:</b>0.81)</li>
+   </ol>
+   
+4. Falta
+
+5. Falta
+
+## Distribución de probabilidad Hipergeometrica
+
+1. En el sur de California, un creciente número de personas que buscan una credencial para enseñanza están escogiendo internados pagados en los tradicionales programas estudiantiles para enseñanza. Un grupo de ocho candidatos para tres posiciones locales de enseñanza estaba formado por cinco candidatos, que se habían inscrito en internados pagados y tres candidatos que se habían inscrito en programas tradicionales estudiantiles para enseñanza. Supongamos que los ocho candidatos están igualmente calificados para las posiciones. Represente con x el número de candidatos capacitados en un internado que son contratados para estas tres posiciones.
+   <ol style="list-style-type: lower-alpha">
+   <li>Encuentre la probabilidad de que tres candidatos capacitados en internado sean contratados para estas posiciones. (<b>Rta:</b> 0.1786) </li>
+   <li>¿Cuál es la probabilidad de que ninguno de los tres contratados sea capacitado en internado? (<b>Rta:</b>0.01786)</li>
+   <li>Encuentre P(X >= 1)$ (<b>Rta:</b>0.2857)</li>
    </ol>
 
