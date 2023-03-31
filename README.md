@@ -51,10 +51,19 @@
    <li>No ocurra hasta al menos el tercer intervalo de un segundo. (<b>Rta</b>: 0.81)</li>
    </ol>
    
-4. Falta
+4. Una empresa de exploración petrolera va a hacer una serie de perforaciones de sondeo en una zona determinada en busca de un pozo productivo. La probabilidad de que tenga éxito en un intento dado es 0.2.
+   <ol style="list-style-type: lower-alpha">
+   <li>¿Cuál es la probabilidad de que la tercera perforación sea la primera en dar un pozo productivo? (<b>Rta</b>: 0.128) </li>
+   <li>Si la empresa puede darse el lujo de perforar a lo sumo diez pozos, ¿cuál es la probabilidad de que no
+encuentre un pozo productivo? (<b>Rta</b>: 0.107)</li>
+   </ol>
 
-5. Falta
-
+5. Suponga que 30% de los solicitantes para cierto trabajo industrial posee capacitación avanzada en programación computacional. Los candidatos son elegidos aleatoriamente entre la población y entrevistados en forma sucesiva. 
+   <ol style="list-style-type: lower-alpha">
+   <li>Encuentre la probabilidad de que el primer solicitante con capacitación avanzada en programación se encuentre en la quinta entrevista. (<b>Rta</b>: 0.07203) </li>
+   <li>¿Cuál es el número esperado de solicitantes que será necesario entrevistar para hallar el primero con capacitación avanzada? (<b>Rta</b>: 3.33)</li>
+   </ol>
+   
 ## Distribución de probabilidad Hipergeometrica
 
 1. En el sur de California, un creciente número de personas que buscan una credencial para enseñanza están escogiendo internados pagados en los tradicionales programas estudiantiles para enseñanza. Un grupo de ocho candidatos para tres posiciones locales de enseñanza estaba formado por cinco candidatos, que se habían inscrito en internados pagados y tres candidatos que se habían inscrito en programas tradicionales estudiantiles para enseñanza. Supongamos que los ocho candidatos están igualmente calificados para las posiciones. Represente con x el número de candidatos capacitados en un internado que son contratados para estas tres posiciones.
