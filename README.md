@@ -54,8 +54,7 @@
 4. Una empresa de exploración petrolera va a hacer una serie de perforaciones de sondeo en una zona determinada en busca de un pozo productivo. La probabilidad de que tenga éxito en un intento dado es 0.2.
    <ol style="list-style-type: lower-alpha">
    <li>¿Cuál es la probabilidad de que la tercera perforación sea la primera en dar un pozo productivo? (<b>Rta</b>: 0.128) </li>
-   <li>Si la empresa puede darse el lujo de perforar a lo sumo diez pozos, ¿cuál es la probabilidad de que no
-encuentre un pozo productivo? (<b>Rta</b>: 0.107)</li>
+   <li>Si la empresa puede darse el lujo de perforar a lo sumo diez pozos, ¿cuál es la probabilidad de que no encuentre un pozo productivo? (<b>Rta</b>: 0.107)</li>
    </ol>
 
 5. Suponga que 30% de los solicitantes para cierto trabajo industrial posee capacitación avanzada en programación computacional. Los candidatos son elegidos aleatoriamente entre la población y entrevistados en forma sucesiva. 
@@ -100,3 +99,6 @@ encuentre un pozo productivo? (<b>Rta</b>: 0.107)</li>
    <li>P(Y >= 1) (<b>Rta</b>: 0.8)</li>
    <li>P(Y <= 1) (<b>Rta</b>: 0.8</li>
    </ol>
+
+## Distribución de probabilidad de Poisson
+
