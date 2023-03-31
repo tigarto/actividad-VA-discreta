@@ -2,10 +2,10 @@
 
 | Tema  | Juan Diego Taborda | Juan Camilo Quiroga | Samuel Toro| Santiago Ramirez| Julian Hernandez|
 | ---  | ----| --- | --- | --- | --- |
-| **Binomial**  | |  |  |  |  |
-| **Geometrica**  | |  |  |  |  |
-| **Hipergeometrica**  | |  |  |  |  |
-| **Poisson**  | |  |  |  |  |
+| **Binomial**  | 2 | 1 |  |  |  |
+| **Geometrica**  | 5 | 3 |  |  |  |
+| **Hipergeometrica**  | 4 | 2 |  |  |  |
+| **Poisson**  | 1 | 5 |  |  |  |
 
 
 ## Distribución de probabilidad Binomial
