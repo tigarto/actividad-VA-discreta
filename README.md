@@ -97,8 +97,43 @@
    <ol style="list-style-type: lower-alpha">
    <li>P(Y = 1) (<b>Rta</b>: 0.6) </li>
    <li>P(Y >= 1) (<b>Rta</b>: 0.8)</li>
-   <li>P(Y <= 1) (<b>Rta</b>: 0.8</li>
+   <li>P(Y <= 1) (<b>Rta</b>: 0.8)</li>
    </ol>
 
 ## Distribución de probabilidad de Poisson
+
+1. El número de errores mecanográficos hechos por una secretaria tiene una distribución de Poisson con
+un promedio de cuatro errores por página. Si en una página se dan más de cuatro errores, la secretaria
+debe volver a escribir toda la página. ¿Cuál es la probabilidad de que una página seleccionada al azar no
+tenga que volver a ser escrita? (**Rta**: 0.6288)
+
+2. El número promedio de accidentes de tránsito en cierto crucero de carretera es dos por semana. Suponga que el número de accidentes sigue una distribución de Poisson con $\lambda = 2$
+   <ol style="list-style-type: lower-alpha">
+   <li>Encuentre la probabilidad de que no haya accidentes en este crucero de carretera durante un periodo de 1 semana. (<b>Rta</b>: 0.135335) </li>
+   <li>Encuentre la probabilidad de que haya tres accidentes como máximo en esta sección de carretera durante un periodo de 2 semanas. (<b>Rta</b>: 0.433471)</li>
+   </ol>
+
+3. El incremento del número de vuelos regionales cortos en aeropuertos importantes ha aumentado la preocupación por la seguridad en el aire. Un aeropuerto de la región este ha registrado un promedio mensual de cinco accidentes a punto de ocurrir en aterrizajes y despegues en los últimos 5 años.
+   <ol style="list-style-type: lower-alpha">
+   <li>Encuentre la probabilidad de que durante un mes determinado no haya accidentes a punto de ocurrir en aterrizajes y despegues en el aeropuerto. (<b>Rta</b>: 0.0067) </li>
+   <li>Encuentre la probabilidad de que durante un mes determinado haya cinco accidentes a punto de ocurrir. (<b>Rta</b>: 0.1755)</li>
+   <li>Encuentre la probabilidad de que haya al menos cinco accidentes a punto de ocurrir durante un mes particular. (<b>Rta</b>: 0.560)</li>
+   </ol>
+
+4. De acuerdo con un estudio realizado por el Departamento de Pediatría de la Universidad de California, en San Francisco, los niños que se lesionan dos o más veces tienden a sufrir estas lesiones durante un tiempo relativamente limitado, por lo general un año o menos. Si el número promedio de lesiones por año para niños en edad escolar es de dos, ¿cuáles son las probabilidades de estos eventos?
+   <ol style="list-style-type: lower-alpha">
+   <li>Un niño en edad escolar sufrirá dos lesiones durante el año. (<b>Rta</b>: 0.271) </li>
+   <li>Un niño en edad escolar sufrirá dos o más lesiones durante el año. (<b>Rta</b>: 0.594)</li>
+   <li>Un niño en edad escolar sufrirá a lo sumo una lesión durante el año. (<b>Rta</b>: 0.406)</li>
+   </ol>
+
+5. El número de solicitudes de ayuda recibidas por un servicio de grúas es un proceso de Poisson con razón cuatro por hora.
+   <ol style="list-style-type: lower-alpha">
+   <li>Calcule la probabilidad de que exactamente diez solicitudes sean recibidas durante un periodo particular de 2 horas. (<b>Rta</b>: 0.099) </li>
+   <li>Si los operadores del servicio de grúas hacen una pausa de 30 minutos para el almuerzo, ¿cuál es la probabilidad de que no dejen de atender llamadas de ayuda? (<b>Rta</b>: 0.135)</li>
+   <li>¿Cuántas llamadas esperaría durante esta pausa? (<b>Rta</b>: 2)</li>
+   </ol>
+
+
+
 
