@@ -1,5 +1,13 @@
 # Actividad VA Discreta
 
+| Tema  | Juan Diego Taborda | Juan Camilo Quiroga | Samuel Toro| Santiago Ramirez| Julian Hernandez|
+| ---  | ----| --- | --- | --- | --- |
+| **Binomial**  | |  |  |  |  |
+| **Geometrica**  | |  |  |  |  |
+| **Hipergeometrica**  | |  |  |  |  |
+| **Poisson**  | |  |  |  |  |
+
+
 ## Distribución de probabilidad Binomial
 
 1. Se construye un complejo sistema electrónico con cierto número de piezas de respaldo en sus subsistemas. Un subsistema tiene cuatro componentes idénticos, cada uno con una probabilidad de 0.2 de fallar en menos de 1000 horas. El subsistema funciona si dos de los cuatro componentes están operando. Suponga que los componentes operan de manera independiente. Encuentre la probabilidad de que
