@@ -1,4 +1,8 @@
-# Actividad VA Discreta
+# Variable aleatoria discreta
+
+## Actividad
+
+Teniendo en cuenta lo información dada en la siguiente tabla:
 
 | Tema  | Juan Diego Taborda | Juan Camilo Quiroga | Samuel Toro| Santiago Ramirez| Julian Hernandez|
 | ---  | ----| --- | --- | --- | --- |
@@ -7,8 +11,36 @@
 | **Hipergeometrica**  | 4 | 2 | 5 | 3 | 1 |
 | **Poisson**  | 1 | 5 | 3 | 4 | 2 |
 
+Resuelva cada uno de los problemas claramente a **mano** (tal y como se vio en clase) y usando **python**. Los problemas resueltos a mano deberan ser entregados en clase en hojas mostrando la solución de manera clara, ordenada y bien explicada. Las notebooks de python (archivos con extención **ipynb**) que implementan la solución de los problemas que se la asigno, deberan ser subidos a este repositorio en una carpeta con las iniciales del autor y dentro de esta con los nombres de los archivos siguiendo el siguiente formato de acuerdo a la distribución que se toco y el numero que se le asigno:
 
-## Distribución de probabilidad Binomial
+|Distribución|Nombre|
+|---|---|
+|Binomial|**```bin_#.ipybn```**|
+|Geometrica|**```geom_#.ipybn```**|
+|Hipergeometrica|**```hiper_#.ipybn```**|
+|Poisson|**```poisson_#.ipybn```**|
+
+Por ejemplo, de la tabla se puede ver que al estudiante **Juan Diego Taborda** le toco resolver los siguientes problemas:
+* **Binomial**: 2
+* **Geometrica**: 5
+* **Hipergeometrica**: 4
+* **Poisson**: 1
+
+Teniendo en cuenta lo anterior, el estudiante **Juan Diego Taborda** debera crear una carpeta con sus iniciales **JDT** y colocar dentro de esta la solución de los problemas de acuerdo nombrandolos de la siguiente manera:
+
+|Distribución|Ejercicio Asignado|Nombre|
+|---|---|---|
+|Binomial|2|**```bin_2.ipybn```**|
+|Geometrica|5|**```geom_5.ipybn```**|
+|Hipergeometrica|4|**```hiper_4.ipybn```**|
+|Poisson|1|**```poisson_1.ipybn```**|
+
+Para cada archivo puede usar la plantilla mostrada en el siguiente [link](ha/bin_6.ipynb) adaptandola a su problema en especifico. Recuerde que en al aula virtual del curso se encuentra abundante material de consulta (diapositivas, ejemplos, etc). Tambien, los ejemplos resueltos en clase usando python se encuentran recopilados en el siguiente [link](https://github.com/estocasticos-udem/curso_2023-1/tree/main/variables_aleatorias_discretas) para que recuerde los conceptos claves antes de empezar.
+
+
+## Problemas
+
+### Distribución de probabilidad Binomial
 
 1. Se construye un complejo sistema electrónico con cierto número de piezas de respaldo en sus subsistemas. Un subsistema tiene cuatro componentes idénticos, cada uno con una probabilidad de 0.2 de fallar en menos de 1000 horas. El subsistema funciona si dos de los cuatro componentes están operando. Suponga que los componentes operan de manera independiente. Encuentre la probabilidad de que
    <ol style="list-style-type: lower-alpha">
@@ -43,7 +75,7 @@
    <li>Ninguna tendrá que olvidarse.(<b>Tema A</b>: 0.75; <b>Tema B</b>: 0.6875)</li>
    </ol>
 
-## Distribución de probabilidad Geometrica
+### Distribución de probabilidad Geometrica
 
 1. Suponga que la probabilidad de mal funcionamiento de un motor durante cualquier periodo de una hora es p = 0.02. Encuentre la probabilidad de que un motor determinado funcione bien dos horas. (**Rta**: 0.9604)
    
@@ -71,7 +103,7 @@
    <li>¿Cuál es el número esperado de solicitantes que será necesario entrevistar para hallar el primero con capacitación avanzada? (<b>Rta</b>: 3.33)</li>
    </ol>
    
-## Distribución de probabilidad Hipergeometrica
+### Distribución de probabilidad Hipergeometrica
 
 1. En el sur de California, un creciente número de personas que buscan una credencial para enseñanza están escogiendo internados pagados en los tradicionales programas estudiantiles para enseñanza. Un grupo de ocho candidatos para tres posiciones locales de enseñanza estaba formado por cinco candidatos, que se habían inscrito en internados pagados y tres candidatos que se habían inscrito en programas tradicionales estudiantiles para enseñanza. Supongamos que los ocho candidatos están igualmente calificados para las posiciones. Represente con x el número de candidatos capacitados en un internado que son contratados para estas tres posiciones.
    <ol style="list-style-type: lower-alpha">
@@ -108,7 +140,7 @@
    <li>P(Y <= 1) (<b>Rta</b>: 0.8)</li>
    </ol>
 
-## Distribución de probabilidad de Poisson
+### Distribución de probabilidad de Poisson
 
 1. El número de errores mecanográficos hechos por una secretaria tiene una distribución de Poisson con
 un promedio de cuatro errores por página. Si en una página se dan más de cuatro errores, la secretaria
@@ -141,7 +173,3 @@ tenga que volver a ser escrita? (**Rta**: 0.6288)
    <li>Si los operadores del servicio de grúas hacen una pausa de 30 minutos para el almuerzo, ¿cuál es la probabilidad de que no dejen de atender llamadas de ayuda? (<b>Rta</b>: 0.135)</li>
    <li>¿Cuántas llamadas esperaría durante esta pausa? (<b>Rta</b>: 2)</li>
    </ol>
-
-
-
-
